@@ -1,0 +1,127 @@
+.image {
+  object-fit: cover;
+}
+.container-1 {
+  width: 100vw;
+  height: 580px;
+  background-color: #550065;
+  display: flex;
+}
+.container-1_1 {
+  width: 379px;
+  height: 580px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.match-title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #ffffff;
+  margin-top: 23px;
+}
+.list {
+  width: 324px;
+  height: 122px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.5rem;
+  margin-top: 17px;
+}
+.list-type-date {
+  width: 291px;
+  color: #505b73;
+  font-size: 10px;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+}
+.stadium {
+  color: #505b73;
+  font-size: 10px;
+  font-weight: 500;
+  width: 291px;
+}
+.team {
+  width: 291px;
+  height: 57px;
+  display: flex;
+  justify-content: space-between;
+}
+.team-name {
+  font-size: 17px;
+  font-weight: 500;
+  margin-left: 6px;
+}
+.abc {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 102px;
+  height: 57px;
+}
+.team-img-name {
+  display: flex;
+  align-items: center;
+}
+.abcd {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 102px;
+  height: 57px;
+}
+.penalty-score {
+  font-size: 10px;
+  font-weight: 500;
+  margin-top: 3px;
+  margin-right: 7px;
+  margin-bottom: 1px;
+}
+.container2 {
+  background-color: #eeeee4;
+  width: 100vw;
+  height: 560px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container2-1 {
+  width: 1380px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1px;
+}
+.legancy {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 60px;
+}
+.seeall {
+  font-size: 14px;
+  font-weight: 500;
+  color: black;
+  text-decoration: none;
+  margin-top: 60px;
+}
+.container2-2 {
+  width: 1380px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 37px;
+}
+.container2-2-1 {
+  display: flex;
+  flex-direction: column;
+}
+.legancy-tittle {
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 13px;
+}

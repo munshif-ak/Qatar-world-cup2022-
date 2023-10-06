@@ -1,0 +1,22 @@
+.drawer{
+    background-color: aqua !important;
+    margin-top: 92px;
+    width: 331px !important;
+}
+.icon{
+    background-color: #ffffff26;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    border: 1px solid #ffffff26;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 0 2px 4px rgba(0,0,0,.15);
+}
+.icon > span{
+    font-size: 28px;
+    font-weight: 700;
+    color: #ffffff;
+}
