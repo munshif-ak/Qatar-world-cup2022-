@@ -1,18 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
-import Navbar from './components/Navbar';
-import Home from './pages/Home';
-import Bottom from './components/Bottom';
-
-
+import "./App.css";
+import Navbar from "./components/Navbar";
+import Home from "./pages/Home";
+import Teams from "./pages/Teams";
+import Bottom from "./components/Bottom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
     <>
-    <Navbar/>
-    <Home/>
-    <Bottom/>
-    
+      <BrowserRouter>
+        <Navbar />
+        <Routes>
+          <Route path="/teams" element={<Teams />} />
+          <Route path="/home" element={<Home />} />
+        </Routes>
+        <Bottom />
+      </BrowserRouter>
     </>
   );
 }
