@@ -1,0 +1,24 @@
+.teams-container1{
+    width: 100vw;
+    height: 160px;
+    background-color: #550065;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.teams-container2{
+    width: 100vw;
+    background-color: #eeeee4;
+    display: flex;
+    flex-wrap: wrap;
+}
+.teams-container2-cards{
+    width: 139px;
+    height: 139px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+    
+}
