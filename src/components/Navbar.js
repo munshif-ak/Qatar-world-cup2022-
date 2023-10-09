@@ -2,6 +2,7 @@ import React from "react";
 import "./navbar.css";
 import App from "./drawer";
 import { navliks } from "../Data/data";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
@@ -22,14 +23,16 @@ function Navbar() {
       </div>
       <div className="second-nav">
         <App />
+        <Link to={'/home'}>
         <img
           src="https://digitalhub.fifa.com/transform/3a170b69-b0b5-4d0c-bca0-85880a60ea1a/World-Cup-logo-landscape-on-dark?io=transform:fill&quality=75"
           width={104}
           height={47}
         />
+        </Link>
         {navliks.map((n) => (
           <div className="categories">
-            <a href="">{n}</a>
+            <Link to={n.href}>{n.title}</Link>
           </div>
         ))}
         <select className="language">
