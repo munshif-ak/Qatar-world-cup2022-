@@ -70,3 +70,10 @@
     font-style: inherit;
     font-weight: 500;
 }
+
+.stores :hover{
+      color: #D5C46C;
+}
+.categories :hover{
+    color: #D5C46C;
+}

@@ -1,7 +1,7 @@
 export const navliks = [
   {
     title: "NEWS",
-    href: "",
+    href: "https://www.fifa.com/fifaplus/en/news",
   },
   {
     title: "HIGHLIGHTS",

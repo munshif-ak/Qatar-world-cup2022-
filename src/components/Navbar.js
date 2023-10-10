@@ -15,10 +15,10 @@ function Navbar() {
           height={15}
         />
         <div className="stores">
-          <a href="">BUY TICKETS </a>
-          <a href="">FIFAe </a>
-          <a href="">FIFA STORE </a>
-          <a href="">FIFA.com </a>
+          <Link to={'https://www.fifa.com/fifaplus/en/tickets'}>BUY TICKETS </Link>
+          <Link to={'https://www.fifa.com/fifaplus/en/tournaments/fifae'}>FIFAe </Link>
+          <Link to={'https://store.fifa.com/en-gb?utm_source=partner&utm_medium=fifa-plus&utm_campaign=top+navigation'}>FIFA STORE </Link>
+          <Link to={'https://www.fifa.com/fifaplus/en'}>FIFA.com </Link>
         </div>
       </div>
       <div className="second-nav">

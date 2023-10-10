@@ -1,6 +1,7 @@
 import React from "react";
 import "./Home.css";
 import { legancy } from "../Data/data";
+import { Link } from "react-router-dom";
 
 function Home() {
   return (
@@ -100,9 +101,9 @@ function Home() {
       <div className="container2">
         <div className="container2-1">
           <span className="legancy">A LEGACY FOR ALL</span>
-          <a href="" className="seeall">
+          <Link to={'https://www.fifa.com/fifaplus/en/cat/5po8JMxaEl0bf8wL1S0CXl'} className="seeall">
             SEE ALL
-          </a>
+          </Link>
         </div>
         <div className="container2-2">
           {legancy.map((l) => (
