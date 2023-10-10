@@ -23,7 +23,7 @@ function Navbar() {
       </div>
       <div className="second-nav">
         <App />
-        <Link to={'/home'}>
+        <Link to={'/'}>
         <img
           src="https://digitalhub.fifa.com/transform/3a170b69-b0b5-4d0c-bca0-85880a60ea1a/World-Cup-logo-landscape-on-dark?io=transform:fill&quality=75"
           width={104}
