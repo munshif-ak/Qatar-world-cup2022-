@@ -9,7 +9,7 @@ export const navliks = [
   },
   {
     title: "KNOCKOUT & GROUPS",
-    href: "",
+    href: "/knockout-groups",
   },
   {
     title: "SCORES & FIXTURES",
@@ -99,7 +99,7 @@ export const teams =[{
 {
   flag:'https://api.fifa.com/api/v3/picture/flags-sq-4/FRA',
   name:'France',
-  shortname:'FRA'
+  shortname:'(FRA)'
 },
 {
   flag:'https://api.fifa.com/api/v3/picture/flags-sq-4/GER',
@@ -114,7 +114,7 @@ export const teams =[{
 {
   flag:'https://api.fifa.com/api/v3/picture/flags-sq-4/IRN',
   name:'Iran',
-  shortname:'IRN'
+  shortname:'(IRN)'
 },
 {
   flag:'https://api.fifa.com/api/v3/picture/flags-sq-4/JPN',

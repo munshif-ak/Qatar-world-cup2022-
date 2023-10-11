@@ -5,6 +5,7 @@ import Teams from "./pages/Teams";
 import Bottom from "./components/Bottom";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Notfound from "./pages/Not-found";
+import Knockoutgroups from "./pages/Knockout&groups";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/teams" element={<Teams />} />
+          <Route path='/knockout-groups' element={<Knockoutgroups/>} />
           <Route path="*" element={<Notfound/>} />
         </Routes>
         <Bottom />

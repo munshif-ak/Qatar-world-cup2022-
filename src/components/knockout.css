@@ -1,0 +1,78 @@
+.knockout-main-container{
+    background-color:#eeeee4 ;
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.knockuot-title{
+    width: 1360px;
+    height: 32px;
+    border-bottom: 1px solid red;
+}
+.knockout-list{
+    width: 1360px;          
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+}
+.round-16{
+    width: 170px;
+    height: 430px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.round-16-list{
+    width: 168px;
+    height: 77px;
+    background-color: white;
+    border-radius: 8px 8px 8px 8px;
+    border: 2px solid #fe5211;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.round-16-list-flag-name{
+    display: flex;
+    flex-direction: column;
+}
+.round-16-list-firstdiv{
+    width: 127px;
+    height: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+.Quater-final{
+    width: 170px;
+    height: 430px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.semi-final{
+    display: flex;
+    
+}
+.semi-final-thirdprice{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.stage-name{
+    width: 1360px;
+    height: 32px;
+    margin-top: 10px;
+    
+}
+
+.stage-name > span {
+    font-size: 15px;
+    font-weight: 500;
+    color: grey;
+
+}
