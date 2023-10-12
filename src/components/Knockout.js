@@ -250,7 +250,7 @@ function Knockout() {
               <span style={{fontSize:'14px',fontWeight:'500',marginTop:'3px'}}>ARG</span>
             </div>
             </div>
-            <span style={{fontSize:'10px',fontWeight:'500'}}>(P) 4 - 3</span>
+            <span style={{fontSize:'10px',fontWeight:'500'}}>(P) 3 - 4</span>
 
           </div>
 
@@ -340,7 +340,7 @@ function Knockout() {
               <span style={{fontSize:'14px',fontWeight:'500',marginTop:'3px'}}>CRO</span>
             </div>
             </div>
-            <span style={{fontSize:'10px',fontWeight:'500'}}>(P) 3 - 1</span>
+            <span style={{fontSize:'10px',fontWeight:'500'}}>(P) 1 - 3</span>
 
           </div>
 

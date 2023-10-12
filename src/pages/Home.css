@@ -2,7 +2,7 @@
   object-fit: cover;
 }
 .container-1 {
-  width: 100vw;
+  width: 100%;
   height: 580px;
   background-color: #550065;
   display: flex;
@@ -85,7 +85,7 @@
 }
 .container2 {
   background-color: #eeeee4;
-  width: 100vw;
+  width: 100%;
   height: 560px;
   display: flex;
   flex-direction: column;

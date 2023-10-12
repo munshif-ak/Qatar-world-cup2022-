@@ -1,6 +1,6 @@
 .knockout-main-container{
     background-color:#eeeee4 ;
-    width: 100vw;
+    width: 100%;
     height: 80vh;
     display: flex;
     flex-direction: column;

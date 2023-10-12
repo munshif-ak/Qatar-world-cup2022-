@@ -1,5 +1,6 @@
 import React from 'react'
 import Knockout from '../components/Knockout'
+import Groups from '../components/Groups'
 
 
 
@@ -12,6 +13,7 @@ function Knockoutgroups() {
 
       </div>
       <Knockout/>
+      <Groups/>
     </div>
   )
 }
