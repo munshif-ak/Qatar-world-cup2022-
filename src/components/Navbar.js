@@ -8,12 +8,14 @@ function Navbar() {
   return (
     <>
       <div className="nav-bar">
+        <Link to={'https://www.fifa.com/fifaplus/'}>
         <img
           style={{ marginLeft: "20px" }}
           src="https://digitalhub.fifa.com/transform/befe3a64-328b-453c-8b58-0faeb9103684/FIFA_Logo_White_Generic?io=transform:fill&quality=75"
           width={50}
           height={15}
         />
+        </Link>
         <div className="stores">
           <Link to={'https://www.fifa.com/fifaplus/en/tickets'}>BUY TICKETS </Link>
           <Link to={'https://www.fifa.com/fifaplus/en/tournaments/fifae'}>FIFAe </Link>

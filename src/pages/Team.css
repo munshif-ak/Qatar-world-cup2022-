@@ -1,5 +1,5 @@
 .teams-container1{
-    width: 100%;
+    width: 100vw;
     height: 160px;
     background-color: #550065;
     display: flex;
@@ -7,7 +7,7 @@
     justify-content: space-between;
 }
 .teams-container2{
-    width: 100%;
+    width: 100vw;
     background-color: #eeeee4;
     display: flex;
     flex-wrap: wrap;
