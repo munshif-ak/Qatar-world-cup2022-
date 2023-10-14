@@ -21,7 +21,7 @@ export const navliks = [
   },
   {
     title: "FIFA WORLD CUP TROPHY TOUR",
-    href: "",
+    href: "/worldcuptrophy",
   },
   {
     title: "FIFA FAN FESTIVAL™",
