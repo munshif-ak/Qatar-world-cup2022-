@@ -3,7 +3,7 @@ import './worldcuptropy.css'
 import { Link } from 'react-router-dom'
 function Worldcuptropy() {
   return (
-    <div>
+    <div style={{marginTop: '92px'}}>
       <div className='trophy-container1-main'>
       <div className='shade'>
       <div className='trophy-container1'>

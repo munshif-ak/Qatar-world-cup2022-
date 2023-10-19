@@ -5,7 +5,7 @@ export const navliks = [
   },
   {
     title: "HIGHLIGHTS",
-    href: "",
+    href: "/highlights",
   },
   {
     title: "KNOCKOUT & GROUPS",
@@ -515,4 +515,19 @@ export const grp =[{
   pts2:'4',
   pts3:'4',
   pts4:'3',
+}]
+
+export const AllHighlights =[{
+  img:'https://digitalhub.fifa.com/transform/8f382ffb-1adc-4a8a-9f03-feb2166736f1/ARG_FRA_FINAL_FWC22_THUMB_V4?io=transform:fill,aspectratio:16x9,width:640&quality=75',
+  tittle:'Argentina v France | Final | FIFA World Cup Qatar 2022™ | Highlights',
+  href:'https://www.plus.fifa.com/en/content/argentina-v-france-final-fifa-world-cup-qatar-2022/46772b92-24c3-4315-87da-158ef7af6259?gl=in'
+},
+{
+  img:'https://digitalhub.fifa.com/transform/9856a6d2-3ba2-4f48-8591-bd16dd3673f3/CRO_MAR_3rd_FWC22_THUMB_V2?io=transform:fill,aspectratio:16x9,width:640&quality=75',
+  tittle:'Croatia v Morocco | Play-off for third place | FIFA World Cup Qatar 2022™ | Highlights',
+  href:'https://www.plus.fifa.com/en/content/croatia-v-morocco-play-off-for-third-place-fifa-world-cup-qatar-2022/09e75c23-ec7d-4a6c-8b67-786e8c8c2627?gl=in'
+},
+{img:'https://digitalhub.fifa.com/transform/78cb8efd-f010-4ba9-957d-03b1cd6a0940/FRA_MAR_SF_FW22?io=transform:fill,aspectratio:16x9,width:640&quality=75',
+  tittle:'France v Morocco | Semi-finals | FIFA World Cup Qatar 2022™ | Highlights',
+  href:'https://www.plus.fifa.com/en/content/france-v-morocco-semi-finals-fifa-world-cup-qatar/7e2abcd7-4379-4bdd-95d6-a45ef0d977b0?gl=in'
 }]

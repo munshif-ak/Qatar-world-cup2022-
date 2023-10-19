@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 function Home() {
   return (
-    <div>
+    <div style={{marginTop: '92px'}}>
       <div className="container-1">
         <div className="container-1_1">
           <img

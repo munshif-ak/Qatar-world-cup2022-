@@ -7,6 +7,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Notfound from "./pages/Not-found";
 import Knockoutgroups from "./pages/Knockout&groups";
 import Worldcuptropy from "./pages/Worldcuptropy";
+import Highlights from "./pages/Highlights";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/highlights" element={<Highlights/>}/>
           <Route path="/teams" element={<Teams />} />
           <Route path='/knockout-groups' element={<Knockoutgroups/>} />
           <Route path="/worldcuptrophy" element={<Worldcuptropy/>}/>

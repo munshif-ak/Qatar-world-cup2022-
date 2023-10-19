@@ -4,7 +4,7 @@ import { teams } from '../Data/data'
 
 function Teams() {
   return (
-    <div style={{backgroundColor:'#eeeee4'}}>
+    <div style={{backgroundColor:'#eeeee4',marginTop: '92px'}}>
       <div className='teams-container1'>
         <span style={{fontSize:'42px', fontWeight:'600',marginLeft:"70px",color:'white'}}>Teams</span>
         <img src='https://digitalhub.fifa.com/transform/c8ec2346-a65d-4488-92b0-903ce0e1f361/FWC-2022-Header-pattern-Web?io=transform:fill,height:144,width:361&quality=75'width={401} height={160}/>
