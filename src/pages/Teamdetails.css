@@ -1,9 +1,9 @@
 .teamdetail-navbar{
     width: 100vw;
     
-    background-color: burlywood;
+    background-color: white;
     
 }
-.nav > .nav-link.active{
+/* .nav > .nav-link.text-dark.active{
     color: red;
-}
+} */

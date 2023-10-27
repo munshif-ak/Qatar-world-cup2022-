@@ -12,12 +12,12 @@ function TeamdetailNews(props) {
           </Link>
       </div>
       <div className='teamdetailnews-cotainer1'>
-        <div className='teamdetailnews-cotainer1-1'>
+        <div style={{ backgroundImage: `url("${props.news.backgroundimg}")` }} className='teamdetailnews-cotainer1-1'>
           <div style={{maxWidth:'574px'}}>
             <div className='teamdetailnews-cotainer1-1-shade'>
-            <div>
-            <span style={{fontSize:'28px',fontWeight:'500',color:'white'}}>Di Maria to retire from Argentina duty following Copa America</span><br/>
-            <span style={{fontSize:'14px',fontWeight:'500',color:'white'}}>The forward has given Argentina more than 15 years of stellar service.</span>
+            <div style={{marginLeft:'15px',marginBottom:'10px'}}>
+            <span style={{fontSize:'28px',fontWeight:'500',color:'white'}}>{props.news.firstcontent}</span><br/>
+            <span style={{fontSize:'14px',fontWeight:'500',color:'white'}}>{props.news.firstspan}</span>
             </div>
               
             </div>
@@ -27,23 +27,23 @@ function TeamdetailNews(props) {
         </div>
         <div className='teamdetailnews-cotainer1-2'>
           <div className='teamdetailnews-cotainer1-2-divs'>
-            <img style={{borderRadius:'10px'}} src='https://digitalhub.fifa.com/transform/52c4c5e0-b863-4bc9-9bb9-490afad7872f/Argentina-v-France-Final-FIFA-World-Cup-Qatar-2022?io=transform:fill,aspectratio:16x16,width:200&quality=75' width={136} height={136}/>
-            <span style={{fontSize:'18px',fontWeight:'500',margin:'15px'}}>Five Qatar 2022 stars who moved in January</span>
+            <img style={{borderRadius:'10px'}} src={props.news.firstimg} width={136} height={136}/>
+            <span style={{fontSize:'18px',fontWeight:'500',margin:'15px'}}>{props.news.secondcontent}</span>
           </div>
 
           <div className='teamdetailnews-cotainer1-2-divs'>
-            <img style={{borderRadius:'10px'}} src='https://digitalhub.fifa.com/transform/52c4c5e0-b863-4bc9-9bb9-490afad7872f/Argentina-v-France-Final-FIFA-World-Cup-Qatar-2022?io=transform:fill,aspectratio:16x16,width:200&quality=75' width={136} height={136}/>
-            <span style={{fontSize:'18px',fontWeight:'500',margin:'15px'}}>Five Qatar 2022 stars who moved in January</span>
+            <img style={{borderRadius:'10px'}} src={props.news.secondimg} width={136} height={136}/>
+            <span style={{fontSize:'18px',fontWeight:'500',margin:'15px'}}>{props.news.thirdcontent}</span>
           </div>
 
           <div className='teamdetailnews-cotainer1-2-divs'>
-            <img style={{borderRadius:'10px'}} src='https://digitalhub.fifa.com/transform/52c4c5e0-b863-4bc9-9bb9-490afad7872f/Argentina-v-France-Final-FIFA-World-Cup-Qatar-2022?io=transform:fill,aspectratio:16x16,width:200&quality=75' width={136} height={136}/>
-            <span style={{fontSize:'18px',fontWeight:'500',margin:'15px'}}>Five Qatar 2022 stars who moved in January</span>
+            <img style={{borderRadius:'10px'}} src={props.news.thirdimg} width={136} height={136}/>
+            <span style={{fontSize:'18px',fontWeight:'500',margin:'15px'}}>{props.news.fourthcontent}</span>
           </div>
 
           <div className='teamdetailnews-cotainer1-2-divs'>
-            <img style={{borderRadius:'10px'}} src='https://digitalhub.fifa.com/transform/52c4c5e0-b863-4bc9-9bb9-490afad7872f/Argentina-v-France-Final-FIFA-World-Cup-Qatar-2022?io=transform:fill,aspectratio:16x16,width:200&quality=75' width={136} height={136}/>
-            <span style={{fontSize:'18px',fontWeight:'500',margin:'15px'}}>Five Qatar 2022 stars who moved in January</span>
+            <img style={{borderRadius:'10px'}} src={props.news.fourthimg} width={136} height={136}/>
+            <span style={{fontSize:'18px',fontWeight:'500',margin:'15px'}}>{props.news.fifthcontent}</span>
           </div>
 
         </div>

@@ -9,12 +9,13 @@
     height: 640px;
     display: flex;
     justify-content: space-between;
+    margin-top: 25px;
 }
 .teamdetailnews-cotainer1-1{
     width: 679px;
     height: 639px;
     border-radius: 12px;
-    background-image: url('https://digitalhub.fifa.com/transform/843b26b7-6783-47c4-a551-444a4ecf8d1a/2022_DI_MARIA_GOAL_36_ARG_FRA?io=transform:fill,height:616,width:735&quality=75');
+    /* background-image: url('https://digitalhub.fifa.com/transform/843b26b7-6783-47c4-a551-444a4ecf8d1a/2022_DI_MARIA_GOAL_36_ARG_FRA?io=transform:fill,height:616,width:735&quality=75'); */
     background-size: cover ;
 }
 .teamdetailnews-cotainer1-1-shade{
@@ -28,7 +29,7 @@
 }
 .teamdetailnews-cotainer1-2{
     width: 679px;
-    height: 639px;
+    height: 637px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;

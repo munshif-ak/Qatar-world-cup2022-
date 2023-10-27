@@ -48,7 +48,20 @@ export const teams = [
     name: "Argentina",
     shortname: "(ARG)",
     banner:"https://digitalhub.fifa.com/transform/b7ee8ebf-acf8-4de8-850c-75e1e60d3b47/Argentina-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
-    color:'#77CCFF'
+    color:'#77CCFF',
+    news:{
+      backgroundimg:'https://digitalhub.fifa.com/transform/843b26b7-6783-47c4-a551-444a4ecf8d1a/2022_DI_MARIA_GOAL_36_ARG_FRA?io=transform:fill,height:616,width:735&quality=75',
+      firstimg:'https://digitalhub.fifa.com/transform/52c4c5e0-b863-4bc9-9bb9-490afad7872f/Argentina-v-France-Final-FIFA-World-Cup-Qatar-2022?io=transform:fill,aspectratio:16x16,width:200&quality=75',
+      secondimg:'https://digitalhub.fifa.com/transform/64008392-ab58-44e7-98cd-5cf3e925b3b8/102465544?io=transform:fill,aspectratio:16x16,width:200&quality=75',
+      thirdimg:'https://digitalhub.fifa.com/transform/e40ea0f9-545b-4dfd-97a5-c0f5617e9394/Argentina-v-France-Final-FIFA-World-Cup-Qatar-2022?io=transform:fill,aspectratio:16x16,width:200&quality=75',
+      fourthimg:'https://digitalhub.fifa.com/transform/dc2200c7-616a-4378-a4ca-0ead5f4043c8/1471395146?io=transform:fill,aspectratio:16x16,width:200&quality=75',
+      firstcontent:'Di Maria to retire from Argentina duty following Copa America',
+      firstspan:'The forward has given Argentina more than 15 years of stellar service.',
+      secondcontent:'Five Qatar 2022 stars who moved in January',
+      thirdcontent:'Messi: I would have liked Maradona to give me the World Cup',
+      fourthcontent:'De Zerbi says Mac Allister should stay at Brighton',
+      fifthcontent:'A tribute to Lionel Messi',
+    }
   },
   {
     id: "02",
@@ -56,7 +69,20 @@ export const teams = [
     name: "Australia",
     shortname: "(AUS)",
     banner:"https://digitalhub.fifa.com/transform/58d1f38b-98d8-479c-91f2-5b1c069f67bf/Australia-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
-    color:'#FFD500'
+    color:'#FFD500',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "03",
@@ -64,7 +90,20 @@ export const teams = [
     name: "Belgium",
     shortname: "(BEL)",
     banner:"https://digitalhub.fifa.com/transform/fceb6323-b6b2-409b-a580-f8a7638e97e7/Belgium-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
-    color:'#1D1D1B'
+    color:'#1D1D1B',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "04",
@@ -72,7 +111,20 @@ export const teams = [
     name: "Brazil",
     shortname: "(BRA)",
     banner:"https://digitalhub.fifa.com/transform/58d1f38b-98d8-479c-91f2-5b1c069f67bf/Australia-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
-    color:'#FFD500'
+    color:'#FFD500',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "05",
@@ -80,7 +132,20 @@ export const teams = [
     name: "Cameroon",
     shortname: "(CMR)",
     banner:"https://digitalhub.fifa.com/transform/daed1f8c-0a63-42cb-9050-72a92cde02b0/Cameroon-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
-    color:'#128436'
+    color:'#128436',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "06",
@@ -88,7 +153,20 @@ export const teams = [
     name: "Canada",
     shortname: "(CAN)",
     banner:"https://digitalhub.fifa.com/transform/b2a8048b-0634-4700-858c-964458fe8496/Canada-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
-    color:'#E40521'
+    color:'#E40521',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "07",
@@ -96,7 +174,20 @@ export const teams = [
     name: "Costa Rica",
     shortname: "(CRC)",
     banner:"https://digitalhub.fifa.com/transform/8bbcec32-491a-4583-a6d3-74ab68968bfe/Costa-Rica-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
-    color:'#CD112E'
+    color:'#CD112E',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "08",
@@ -104,7 +195,20 @@ export const teams = [
     name: "Croatia",
     shortname: "(CRO)",
     banner:"https://digitalhub.fifa.com/transform/1c229fd8-449e-414b-aa7b-a94accb7a8a3/Croatia-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
-    color:'#0050A0'
+    color:'#0050A0',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "09",
@@ -112,7 +216,20 @@ export const teams = [
     name: "Denmark",
     shortname: "(DEN)",
     banner:"https://digitalhub.fifa.com/transform/37488923-57bc-4b1d-ac84-b1b4ae69a477/Denmark-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
-    color:'#E40521'
+    color:'#E40521',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "10",
@@ -120,7 +237,20 @@ export const teams = [
     name: "Ecuador",
     shortname: "(ECU)",
     banner:"https://digitalhub.fifa.com/transform/16aaf244-6b63-42ba-a8c1-ec2a4b93a4dd/Ecuador-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
-    color:'#FFD500'
+    color:'#FFD500',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "11",
@@ -128,7 +258,20 @@ export const teams = [
     name: "England",
     shortname: "(ENG)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "12",
@@ -136,7 +279,20 @@ export const teams = [
     name: "France",
     shortname: "(FRA)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "13",
@@ -144,7 +300,20 @@ export const teams = [
     name: "Germany",
     shortname: "(GER)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "14",
@@ -152,7 +321,20 @@ export const teams = [
     name: "Ghana",
     shortname: "(GHA)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "15",
@@ -160,7 +342,20 @@ export const teams = [
     name: "Iran",
     shortname: "(IRN)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "16",
@@ -168,7 +363,20 @@ export const teams = [
     name: "Japan",
     shortname: "(JPN)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "17",
@@ -176,7 +384,20 @@ export const teams = [
     name: "Korea",
     shortname: "(KOR)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "18",
@@ -184,7 +405,20 @@ export const teams = [
     name: "Mexico",
     shortname: "(MEX)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "19",
@@ -192,7 +426,20 @@ export const teams = [
     name: "Moroco",
     shortname: "(MAR)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "20",
@@ -200,7 +447,20 @@ export const teams = [
     name: "Netharlands",
     shortname: "(NED)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "21",
@@ -208,7 +468,20 @@ export const teams = [
     name: "Poland",
     shortname: "(POL)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "22",
@@ -216,7 +489,20 @@ export const teams = [
     name: "Portugal",
     shortname: "(POR)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "23",
@@ -224,7 +510,20 @@ export const teams = [
     name: "Qatar",
     shortname: "(QAT)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "24",
@@ -232,7 +531,20 @@ export const teams = [
     name: "Saudi Arabia",
     shortname: "(KSA)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "25",
@@ -240,7 +552,20 @@ export const teams = [
     name: "Senegal",
     shortname: "(SEN)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "26",
@@ -248,7 +573,20 @@ export const teams = [
     name: "Serbia",
     shortname: "(SRB)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "27",
@@ -256,7 +594,20 @@ export const teams = [
     name: "Spain",
     shortname: "(ESP)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "28",
@@ -264,7 +615,20 @@ export const teams = [
     name: "Switzerland",
     shortname: "(SUI)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "29",
@@ -272,7 +636,20 @@ export const teams = [
     name: "Tunisia",
     shortname: "(TUN)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "30",
@@ -280,7 +657,20 @@ export const teams = [
     name: "United States",
     shortname: "(USA)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "31",
@@ -288,7 +678,20 @@ export const teams = [
     name: "Uruguay",
     shortname: "(URU)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
   {
     id: "32",
@@ -296,7 +699,20 @@ export const teams = [
     name: "Wales",
     shortname: "(WAL)",
     banner:"",
-    color:''
+    color:'',
+    news:{
+      backgroundimg:'',
+      firstimg:'',
+      secondimg:'',
+      thirdimg:'',
+      fourthimg:'',
+      firstcontent:'',
+      firstspan:'',
+      secondcontent:'',
+      thirdcontent:'',
+      fourthcontent:'',
+      fifthcontent:'',
+    }
   },
 ];
 
