@@ -13,7 +13,7 @@ export const navliks = [
   },
   {
     title: "SCORES & FIXTURES",
-    href: "",
+    href: "/score-fixture",
   },
   {
     title: "TEAMS",
@@ -103,24 +103,24 @@ export const teams = [
     flag: "https://api.fifa.com/api/v3/picture/flags-sq-4/CRO",
     name: "Croatia",
     shortname: "(CRO)",
-    banner:"",
-    color:''
+    banner:"https://digitalhub.fifa.com/transform/1c229fd8-449e-414b-aa7b-a94accb7a8a3/Croatia-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
+    color:'#0050A0'
   },
   {
     id: "09",
     flag: "https://api.fifa.com/api/v3/picture/flags-sq-4/DEN",
     name: "Denmark",
     shortname: "(DEN)",
-    banner:"",
-    color:''
+    banner:"https://digitalhub.fifa.com/transform/37488923-57bc-4b1d-ac84-b1b4ae69a477/Denmark-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
+    color:'#E40521'
   },
   {
     id: "10",
     flag: "https://api.fifa.com/api/v3/picture/flags-sq-4/ECU",
     name: "Ecuador",
     shortname: "(ECU)",
-    banner:"",
-    color:''
+    banner:"https://digitalhub.fifa.com/transform/16aaf244-6b63-42ba-a8c1-ec2a4b93a4dd/Ecuador-1920-to-768?io=transform:fill,height:144,width:361&quality=75",
+    color:'#FFD500'
   },
   {
     id: "11",

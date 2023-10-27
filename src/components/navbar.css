@@ -28,6 +28,13 @@
     top: 32px;
 }
 
+.active-show{
+    color: #ffffff;
+}
+.categories > .active-show.active{
+    color: #D5C46C;
+}
+
 .categories>a{
  font-size: 15px;
  font-weight: 600;

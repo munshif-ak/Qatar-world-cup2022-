@@ -2,7 +2,7 @@ import React from "react";
 import "./navbar.css";
 import App from "./drawer";
 import { navliks } from "../Data/data";
-import { Link } from "react-router-dom";
+import { Link,NavLink } from "react-router-dom";
 
 function Navbar() {
   return (
@@ -34,7 +34,7 @@ function Navbar() {
         </Link>
         {navliks.map((n) => (
           <div className="categories">
-            <Link to={n.href}>{n.title}</Link>
+            <NavLink className={'active-show'} to={n.href}>{n.title}</NavLink>
           </div>
         ))}
         <select className="language">
