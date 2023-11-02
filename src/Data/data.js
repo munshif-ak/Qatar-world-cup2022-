@@ -1770,17 +1770,4 @@ export const ScoreFixture =[{
   }]
 }]
 
-// export const TeamsDeails = [{
-//   1 : {
-//     flag: "https://api.fifa.com/api/v3/picture/flags-sq-4/IRN",
-//     name: "Iran",
-//   },
-//   2 : {
-//     flag: "https://api.fifa.com/api/v3/picture/flags-sq-4/IRN",
-//     name: "Iran",
-//   },
-//   3 : {
-//     flag: "https://api.fifa.com/api/v3/picture/flags-sq-4/IRN",
-//     name: "Iran",
-//   },
-// }];
+
