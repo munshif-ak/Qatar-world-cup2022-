@@ -10,6 +10,7 @@ import Worldcuptropy from "./pages/Worldcuptropy";
 import Highlights from "./pages/Highlights";
 import Teamdetails from "./pages/Teamdetails";
 import Scorefixture from "./pages/Score&fixture";
+import Scoredetail from "./pages/Scoredetail";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           <Route path="/teams/:tms" element={<Teamdetails/>}/>
           <Route path='/knockout-groups' element={<Knockoutgroups/>} />
           <Route path="/score-fixture" element={<Scorefixture/>}/>
+          <Route path="/score-fixture/:scr" element={<Scoredetail/>}/>
           <Route path="/worldcuptrophy" element={<Worldcuptropy/>}/>
           <Route path="*" element={<Notfound/>} />
         </Routes>

@@ -73,3 +73,11 @@ align-items: center;
     margin: 12px;
 
 }
+.text-deceration{
+    text-decoration: none;
+    color: black;
+}
+
+.fixtures:hover{
+    border: 1px solid black;
+}
