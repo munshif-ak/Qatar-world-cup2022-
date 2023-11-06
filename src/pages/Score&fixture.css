@@ -1,83 +1,100 @@
-.score-fixture-maincontainer{
-width: 100vw;
-margin-top: 92px;
-background-color: #eeeee4;
-display: flex;
-flex-direction: column;
-align-items: center;
+.score-fixture-maincontainer {
+  width: 100vw;
+  margin-top: 92px;
+  background-color: #eeeee4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.score-fixture-ncontainer1{
-    display: flex;
-    flex-direction: column;
+.score-fixture-ncontainer1 {
+  display: flex;
+  flex-direction: column;
 }
 
-.fixtures{
- width: 936px;
- height: 52px;
- background-color: white;
- border-radius: 10px;
- display: flex;
- justify-content: center;
- align-items: center;
- margin: 12px;
+.fixtures {
+  width: 936px;
+  height: 52px;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 12px;
 }
 
-.fixtures-1{
-    width: 900px;
-    margin-right: 19px;
-    display: flex;
-    justify-content: space-between;
+.fixtures-1 {
+  width: 900px;
+  margin-right: 19px;
+  display: flex;
+  justify-content: space-between;
 }
 
-.fixtures-2{
-    width: 222px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-right: 30px;
+.fixtures-2 {
+  width: 355px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 30px;
 }
 
-.adidas{
-    width: 936px;
-    height: 54px;
-    background-color: black;
-    margin: 12px;
+.adidas {
+  width: 936px;
+  height: 54px;
+  background-color: black;
+  margin: 12px;
 }
 
-.FT{
-    width: 24px;
-    height: 16px;
-    background-color: #550065;
-    color: white;
-    font-size: 10px;
-    font-weight: 500;
-    border-radius: 5px;
-    text-align: center;
-    margin-top: 5px;
+.FT {
+  width: 24px;
+  height: 16px;
+  background-color: #550065;
+  color: white;
+  font-size: 10px;
+  font-weight: 500;
+  border-radius: 5px;
+  text-align: center;
+  margin-top: 5px;
 }
 
-.matchno-group{
-    font-size: 12px;
-    font-weight: 500;
-    color: grey;
+.matchno-group {
+  font-size: 12px;
+  font-weight: 500;
+  color: grey;
 }
 
-.date-contai{
-    display: flex;
-    justify-content: space-between;
-    width: 938px;
-    align-items: center;
-    font-size: 18px;
-    font-weight: 500;
-    margin: 12px;
-
+.date-contai {
+  display: flex;
+  justify-content: space-between;
+  width: 938px;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 12px;
 }
-.text-deceration{
-    text-decoration: none;
-    color: black;
+.text-deceration {
+  text-decoration: none;
+  color: black;
 }
 
-.fixtures:hover{
-    border: 1px solid black;
+.fixtures:hover {
+  border: 1px solid black;
+}
+.fixtures-2-1 {
+  width: 130px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.fixtures-2-2 {
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fixtures-2-3 {
+  width: 130px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }

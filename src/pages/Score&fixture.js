@@ -42,17 +42,23 @@ function Scorefixture() {
                   match {f.matchno}, group {f.group}
                 </div>
                 <div className="fixtures-2">
+                  <div className="fixtures-2-1">
                   <span style={{ fontSize: "14px", fontWeight: "500" }}>
                     {f.tname1}
                   </span>
                   <img src={f.flag1} width={21} height={15} />
-                  <span style={{ fontSize: "14px", fontWeight: "500" }}>
+                  </div>
+                  <div className="fixtures-2-2">
+                    <span style={{ fontSize: "14px", fontWeight: "500" }}>
                     {f.score1} - {f.score2}
                   </span>
+                  </div>
+                  <div className="fixtures-2-3">
                   <img src={f.flag2} width={21} height={15} />
                   <span style={{ fontSize: "14px", fontWeight: "500" }}>
                     {f.tname2}
                   </span>
+                  </div>
                 </div>
                 <div style={{ display: "flex", alignItems: "center" }}>
                   <div className="FT">FT</div>
