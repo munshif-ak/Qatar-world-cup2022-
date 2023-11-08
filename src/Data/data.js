@@ -231,7 +231,7 @@ export const teams = [
       point:'1234',
       teamstats:'abcd'
 
-    },
+    }
   ]
   },
   {
@@ -253,7 +253,179 @@ export const teams = [
       thirdcontent:'Which teams changed coaches after World Cup and who is staying?',
       fourthcontent:'World Cup heroics earn Ranking rises',
       fifthcontent:'Argentina road to glory at the Qatar 2022 World Cup final',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
+    
   },
   {
     id: "03",
@@ -274,7 +446,178 @@ export const teams = [
       thirdcontent:'Argentina road to glory at the Qatar 2022 World Cup final',
       fourthcontent:'A group stage to remember: Five extraordinary matches',
       fifthcontent:'Croatia star Modric heart of gold',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "04",
@@ -295,7 +638,178 @@ export const teams = [
       thirdcontent:'Ten Hag: Casemiro is raising the limits at Manchester United',
       fourthcontent:'Pep says perfect Pele could star in any era',
       fifthcontent:'Pele praised for hugely impactful move to the USA',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "05",
@@ -316,7 +830,178 @@ export const teams = [
       thirdcontent:'The group stage in stats',
       fourthcontent:'Cameroon crack the Brazilian barrier for Africa',
       fifthcontent:'A group stage to remember: Five extraordinary matches',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "06",
@@ -337,7 +1022,178 @@ export const teams = [
       thirdcontent:'The group stage in stats',
       fourthcontent:'A group stage to remember: Five extraordinary matches',
       fifthcontent:'Lessons lead to 2026 for Herdman`s Canada',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "07",
@@ -358,7 +1214,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "08",
@@ -379,7 +1406,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "09",
@@ -400,7 +1598,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "10",
@@ -421,7 +1790,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "11",
@@ -442,7 +1982,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "12",
@@ -463,7 +2174,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "13",
@@ -484,7 +2366,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "14",
@@ -505,7 +2558,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "15",
@@ -526,7 +2750,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "16",
@@ -547,7 +2942,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "17",
@@ -568,7 +3134,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "18",
@@ -589,7 +3326,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "19",
@@ -610,7 +3518,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "20",
@@ -631,7 +3710,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "21",
@@ -652,7 +3902,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "22",
@@ -673,7 +4094,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "23",
@@ -694,7 +4286,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "24",
@@ -715,7 +4478,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "25",
@@ -736,7 +4670,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "26",
@@ -757,7 +4862,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "27",
@@ -778,7 +5054,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "28",
@@ -799,7 +5246,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "29",
@@ -820,7 +5438,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "30",
@@ -841,7 +5630,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "31",
@@ -862,7 +5822,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
   {
     id: "32",
@@ -883,7 +6014,178 @@ export const teams = [
       thirdcontent:'',
       fourthcontent:'',
       fifthcontent:'',
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
     }
+  ]
   },
 ];
 
