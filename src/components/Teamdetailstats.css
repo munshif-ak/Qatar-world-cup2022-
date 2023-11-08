@@ -1,0 +1,34 @@
+.stats-main{
+    background-color: #EEEEE4;
+}
+
+.stats-main1{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.teamstats{
+    background-color: white;
+    width: 437px;
+    height: 220px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.teamstats1-1{
+    width: 418px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.teamstats1-2{
+    width: 418px;
+    margin-bottom: 10px;
+}

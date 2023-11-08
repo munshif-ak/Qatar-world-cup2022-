@@ -61,7 +61,178 @@ export const teams = [
       thirdcontent:'Messi: I would have liked Maradona to give me the World Cup',
       fourthcontent:'De Zerbi says Mac Allister should stay at Brighton',
       fifthcontent:'A tribute to Lionel Messi',
-    }
+    },
+    stats:[{
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+    {
+      point:'1234',
+      teamstats:'abcd'
+
+    },
+  ]
   },
   {
     id: "02",
