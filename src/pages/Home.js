@@ -120,6 +120,16 @@ function Home() {
           ))}
         </div>
       </div>
+      <div className="container3">
+        <div className="container3-1">
+          <h2 style={{color:'white',fontWeight:'500'}}>THE FINAL</h2>
+          <p style={{color:'white',fontSize:'17px'}}>It was the perfect final to an unforgettable FIFA World Cup™, with Argentina and France delivering an all-time classic at Lusail Stadium.</p>
+          <p style={{color:'white',fontSize:'17px'}}>La Albiceleste looked to be in control for most of the match and were two goals to the good by half-time, thanks to Lionel Messi and Angel Di Maria. However, France produced a stirring late comeback inspired by two goals from star man Kylian Mbappé.</p>
+          <p style={{color:'white',fontSize:'17px'}}>During a breathless and breath-taking extra time, Argentina regained the lead with Messi's second goal, only for Mbappe to level once again. Ultimately, the match was decided by penalties, with Gonzalo Montiel clinching Argentina's historic triumph.</p>
+        </div>
+        <img src="https://digitalhub.fifa.com/transform/fed7436f-c7b1-4244-87d2-a239f0d404da/Argentina-v-France-Final-FIFA-World-Cup-Qatar-2022?io=transform:fill,aspectratio:16x9,width:1366&quality=75" width={702} height={395} style={{marginTop:'25px'}}/>
+        
+      </div>
     </div>
   );
 }

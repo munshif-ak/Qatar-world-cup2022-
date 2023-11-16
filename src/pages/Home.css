@@ -126,3 +126,14 @@
   font-weight: 500;
   margin-top: 13px;
 }
+
+.container3{
+  width: 100vw;
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+}
+.container3-1{
+  max-width: 473px;
+  margin-top: 25px;
+}
