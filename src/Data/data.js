@@ -41,6 +41,22 @@ export const legancy = [
   },
 ];
 
+export const thefinal =[{
+  link:'https://www.fifa.com/fifaplus/en/member-associations/france/articles/world-cup-qatar-2022-final-argentina-messi-mbappe-france-videos-reaction',
+  img:'https://digitalhub.fifa.com/transform/3fc31d80-8944-47c9-a922-0eb95ec089f7/1450101528?io=transform:fill,aspectratio:16x9,width:640&quality=75',
+  tittle:'The excitement and emotion of a classic final'
+},
+{
+  link:'https://www.plus.fifa.com/en/content/argentina-v-france-final-fifa-world-cup-qatar-2022/46772b92-24c3-4315-87da-158ef7af6259?gl=in',
+  img:'https://digitalhub.fifa.com/transform/8f382ffb-1adc-4a8a-9f03-feb2166736f1/ARG_FRA_FINAL_FWC22_THUMB_V4?io=transform:fill,aspectratio:16x9,width:640&quality=75',
+  tittle:'Argentina v France | Final | FIFA World Cup Qatar 2022™ | Highlights'
+},
+{
+  link:'https://www.fifa.com/fifaplus/en/watch/31U37FccrGRRELYO6KF6y3',
+  img:'https://digitalhub.fifa.com/transform/f65ed923-9b64-4ba2-af70-c44345c61b59/Obelisco-Buenos-Aires-Argentina-celebrations?io=transform:fill,aspectratio:16x9,width:640&quality=75',
+  tittle:'This World Cup is ours - Argentina fans at Obelisco'
+}]
+
 export const teams = [
   {
     id: "01",
