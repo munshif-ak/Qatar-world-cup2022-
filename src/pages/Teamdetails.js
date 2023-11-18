@@ -61,7 +61,7 @@ function Teamdetails() {
 <div className="tab-content" id="nav-tabContent">
   <div className="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab" tabindex="0"><TeamdetailNews news={f.news}/></div>
   <div className="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0"><Knockout/></div>
-  <div className="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab" tabindex="0"><TeamdetailStats stats={f.stats}/></div>
+  <div className="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab" tabindex="0"><TeamdetailStats stats={f.stats} playerstats={f.playerstats}/></div>
   <div className="tab-pane fade" id="nav-disabled" role="tabpanel" aria-labelledby="nav-disabled-tab" tabindex="0">..bbbbbbbbbbbb.</div>
 </div>
 
